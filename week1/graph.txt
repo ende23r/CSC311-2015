@@ -1,0 +1,22 @@
+//Stuff for a minimum spanning tree
+A B 23
+A J 11
+B C 31
+B K 16
+C D 26
+C E 31
+C L 35
+D E 23
+E F 11
+F G 12
+F L 39
+F M 30
+G H 54
+H I 46
+H N 18
+I J 34
+I N 32
+J K 32
+K N 14
+L M 5
+L N 21
